@@ -48,7 +48,7 @@ incident_angle=pi/7.50;
 
 focal_length=2.50e-1;
 
-
+  After finishing calculations, thsi Matlab code will plot four figures automatically. The first figure shows colorfully the light intensity distribution in the Lens plane, the second one shows colorfully the light intensity distribution in the focal plane, the third figure shows the light intensity curve along the y-axis passing through the center of lens, and the fourth one shows the light intensity along the y-axis passing theorigh the origin of the focal plane. Furthermore, Id.mat, Intensity.mat , and Amplitude_Lens.mat are restored automatically.
 
 
 
