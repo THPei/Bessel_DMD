@@ -28,17 +28,27 @@ d=13.68;
 size=12.68e-6;
 
 Lambda=0.635e-6;
+
 initial_freq=4.65517;
+
 final_freq=4.65517;
+
 freq_interval=0.01;
 
+
 Lattice_Lambda=13.68e-6;
+
 M_diffraction_order=11;
+
 N_diffraction_order=12;
 
 tilted_angle=12*pi/180;
+
 incident_angle=pi/7.50;
+
 focal_length=2.50e-1;
+
+
 
 
 
